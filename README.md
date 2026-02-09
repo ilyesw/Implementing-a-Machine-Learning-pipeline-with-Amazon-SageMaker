@@ -51,9 +51,7 @@ Le projet est divisé en 5 laboratoires, chacun couvrant une étape clé du pipe
 3.  Ouvrez les fichiers `.ipynb` (Jupyter Notebooks) dans votre environnement SageMaker ou Jupyter local.
 4.  Suivez les instructions dans chaque notebook pour exécuter le code.
 
-## Auteur
 
-- **Ilyes RHOUMA (Groupe 1)**
 
 ---
 
@@ -99,6 +97,4 @@ The project is divided into 5 labs, each covering a key step of the ML pipeline:
 3.  Open the `.ipynb` files (Jupyter Notebooks) in your SageMaker or local Jupyter environment.
 4.  Follow the instructions in each notebook to execute the code.
 
-## Author
 
-- **Ilyes RHOUMA (Group 1)**
