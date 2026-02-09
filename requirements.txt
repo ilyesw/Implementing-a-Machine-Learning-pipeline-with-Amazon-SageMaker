@@ -1,0 +1,6 @@
+pandas
+scipy
+boto3
+sagemaker
+scikit-learn
+requests
